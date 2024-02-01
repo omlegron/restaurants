@@ -3,6 +3,8 @@
 ```bash
 $ yarn install / npm install
 
-## Installation
+## TRY RUN
 
-```bash
+docker-compose up --build -v
+
+
